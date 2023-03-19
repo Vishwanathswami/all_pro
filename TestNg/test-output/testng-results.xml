@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T21:37:11 IST" name="Suite" finished-at="2023-02-28T21:37:12 IST" duration-ms="98">
+    <groups>
+      <group name="unit">
+        <method signature="Test2Class.m4()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" name="m4" class="testng_practice.Test2Class"/>
+      </group> <!-- unit -->
+      <group name="regression">
+        <method signature="Test2Class.m2()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" name="m2" class="testng_practice.Test2Class"/>
+        <method signature="Test2Class.m6()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" name="m6" class="testng_practice.Test2Class"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Test2Class.m1()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" name="m1" class="testng_practice.Test2Class"/>
+        <method signature="Test2Class.m3()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" name="m3" class="testng_practice.Test2Class"/>
+        <method signature="Test2Class.m5()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" name="m5" class="testng_practice.Test2Class"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-02-28T21:37:11 IST" name="Test" finished-at="2023-02-28T21:37:12 IST" duration-ms="98">
+      <class name="testng_practice.Test2Class">
+        <test-method signature="m1()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" started-at="2023-02-28T21:37:12 IST" name="m1" finished-at="2023-02-28T21:37:12 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m3()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" started-at="2023-02-28T21:37:12 IST" name="m3" finished-at="2023-02-28T21:37:12 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="m4()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" started-at="2023-02-28T21:37:12 IST" name="m4" finished-at="2023-02-28T21:37:12 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method signature="m5()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" started-at="2023-02-28T21:37:12 IST" name="m5" finished-at="2023-02-28T21:37:12 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method signature="m2()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" started-at="2023-02-28T21:37:12 IST" name="m2" finished-at="2023-02-28T21:37:12 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method signature="m6()[pri:0, instance:testng_practice.Test2Class@6b8ca3c8]" started-at="2023-02-28T21:37:12 IST" name="m6" finished-at="2023-02-28T21:37:12 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+      </class> <!-- testng_practice.Test2Class -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

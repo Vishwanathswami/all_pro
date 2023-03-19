@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-13T13:04:05 IST" name="Default suite" finished-at="2022-10-13T13:04:43 IST" duration-ms="37912">
+    <groups>
+    </groups>
+    <test started-at="2022-10-13T13:04:05 IST" name="Default test" finished-at="2022-10-13T13:04:43 IST" duration-ms="37912">
+      <class name="testjavaa.LoginTestttt">
+        <test-method is-config="true" signature="brwsrlaunch()[pri:0, instance:testjavaa.LoginTestttt@2ea41516]" started-at="2022-10-13T13:04:05 IST" name="brwsrlaunch" finished-at="2022-10-13T13:04:30 IST" duration-ms="25378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brwsrlaunch -->
+        <test-method is-config="true" signature="pageobject()[pri:0, instance:testjavaa.LoginTestttt@2ea41516]" started-at="2022-10-13T13:04:30 IST" name="pageobject" finished-at="2022-10-13T13:04:31 IST" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageobject -->
+        <test-method signature="verifyurl()[pri:0, instance:testjavaa.LoginTestttt@2ea41516]" started-at="2022-10-13T13:04:31 IST" name="verifyurl" finished-at="2022-10-13T13:04:32 IST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyurl -->
+        <test-method signature="display()[pri:1, instance:testjavaa.LoginTestttt@2ea41516]" started-at="2022-10-13T13:04:32 IST" name="display" finished-at="2022-10-13T13:04:32 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+        <test-method signature="verifylogin()[pri:2, instance:testjavaa.LoginTestttt@2ea41516]" started-at="2022-10-13T13:04:32 IST" name="verifylogin" finished-at="2022-10-13T13:04:42 IST" duration-ms="9382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="teardownall()[pri:0, instance:testjavaa.LoginTestttt@2ea41516]" started-at="2022-10-13T13:04:42 IST" name="teardownall" finished-at="2022-10-13T13:04:43 IST" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownall -->
+      </class> <!-- testjavaa.LoginTestttt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

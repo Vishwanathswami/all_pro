@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[start test case]]>
+    </line>
+    <line>
+      <![CDATA[start test case]]>
+    </line>
+    <line>
+      <![CDATA[start test case]]>
+    </line>
+    <line>
+      <![CDATA[start test case]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-12T21:22:16 IST" name="Suite" finished-at="2022-10-12T21:22:51 IST" duration-ms="34794">
+    <groups>
+      <group name="regression">
+        <method signature="hiiiiii.verifyUpperIconsGrocery()[pri:3, instance:vvvvvvvvv.hiiiiii@662b4c69]" name="verifyUpperIconsGrocery" class="vvvvvvvvv.hiiiiii"/>
+        <method signature="hiiiiii.verifyUpperIconsTopOffers()[pri:4, instance:vvvvvvvvv.hiiiiii@662b4c69]" name="verifyUpperIconsTopOffers" class="vvvvvvvvv.hiiiiii"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="hiiiiii.verifyTitleOfPage()[pri:2, instance:vvvvvvvvv.hiiiiii@662b4c69]" name="verifyTitleOfPage" class="vvvvvvvvv.hiiiiii"/>
+        <method signature="hiiiiii.verifyurlofPage()[pri:1, instance:vvvvvvvvv.hiiiiii@662b4c69]" name="verifyurlofPage" class="vvvvvvvvv.hiiiiii"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-10-12T21:22:16 IST" name="Test" finished-at="2022-10-12T21:22:51 IST" duration-ms="34794">
+      <class name="vvvvvvvvv.hiiiiii">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:vvvvvvvvv.hiiiiii@662b4c69]" started-at="2022-10-12T21:22:16 IST" name="browserLaunch" finished-at="2022-10-12T21:22:50 IST" duration-ms="33436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="verifyurlofPage()[pri:1, instance:vvvvvvvvv.hiiiiii@662b4c69]" started-at="2022-10-12T21:22:50 IST" name="verifyurlofPage" finished-at="2022-10-12T21:22:50 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[start test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyurlofPage -->
+        <test-method signature="verifyTitleOfPage()[pri:2, instance:vvvvvvvvv.hiiiiii@662b4c69]" started-at="2022-10-12T21:22:50 IST" name="verifyTitleOfPage" finished-at="2022-10-12T21:22:50 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[start test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTitleOfPage -->
+        <test-method signature="verifyUpperIconsGrocery()[pri:3, instance:vvvvvvvvv.hiiiiii@662b4c69]" started-at="2022-10-12T21:22:50 IST" name="verifyUpperIconsGrocery" finished-at="2022-10-12T21:22:50 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[start test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUpperIconsGrocery -->
+        <test-method signature="verifyUpperIconsTopOffers()[pri:4, instance:vvvvvvvvv.hiiiiii@662b4c69]" started-at="2022-10-12T21:22:50 IST" name="verifyUpperIconsTopOffers" finished-at="2022-10-12T21:22:50 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[start test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUpperIconsTopOffers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:vvvvvvvvv.hiiiiii@662b4c69]" started-at="2022-10-12T21:22:50 IST" name="tearDown" finished-at="2022-10-12T21:22:51 IST" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- vvvvvvvvv.hiiiiii -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
